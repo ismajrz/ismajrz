@@ -23,11 +23,12 @@
 🎮 gaming and football when i'm not coding
 </p>
 
-<h2 align="left">🧪 things i've actually done</h2>
+<h2 align="left">🧪 practical experience</h2>
 
 - set up 2 gta roleplay servers from zero, writing the scripts in lua
-- osint work tracing emails, phone numbers and usernames on real cases, not just running tools
-- configuring and testing networks in packet tracer (ipv4/ipv6, routing) at a basic to intermediate level
+- built apps for the mac and iphone ecosystem
+- digging into emails, phone numbers and usernames to piece together real osint cases
+- building and testing small networks in packet tracer (ipv4/ipv6, routing), still leveling up
 
 <h2 align="left">learning</h2>
 
