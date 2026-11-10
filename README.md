@@ -1,10 +1,12 @@
-## hey, i'm isma
+## hey, i'm isma 👋
 
-i like building things: apps, bots and whatever idea gets stuck in my head.
+new around here. i like building things: apps, bots and whatever idea gets stuck in my head.
 
 ### about me
 
-🛠️ working on my own projects and sharing the process  
+🌱 fairly new to github, so this profile is just getting started  
+🔒 most of my projects are private for personal reasons  
+🛠️ currently working on something i'll share publicly soon  
 📚 studying DAM (multiplatform app development)  
 🎮 gaming and football when i'm not coding
 
@@ -26,4 +28,4 @@ i like building things: apps, bots and whatever idea gets stuck in my head.
 
 ### contact
 
-[@ismajrz7 on X](https://x.com/ismajrz7)
+say hi on X: [@ismajrz7](https://x.com/ismajrz7)
