@@ -18,7 +18,7 @@
 
 <p align="left">
 🌱 fairly new to github, so this profile is just getting started<br>
-🔒 most of my projects are private for now<br>
+🔒 most of my projects are private for personal reasons<br>
 📚 studying DAM (multiplatform app development)<br>
 🎮 gaming and football when i'm not coding
 </p>
@@ -66,5 +66,5 @@
 
 <p align="left">
   i'll post updates as i go.<br>
-  say hi on X: <a href="https://x.com/ismajrz7">@ismajrz7</a>
+  say hi on X: <a href="https://x.com/ismajrz">@ismajrz</a>
 </p>
