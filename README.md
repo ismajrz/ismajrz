@@ -18,7 +18,7 @@
 
 <p align="left">
 🌱 fairly new to github, so this profile is just getting started<br>
-🔒 most of my projects are private for personal reasons<br>
+🔒 most of my projects are private for now<br>
 📚 studying DAM (multiplatform app development)<br>
 🎮 gaming and football when i'm not coding
 </p>
