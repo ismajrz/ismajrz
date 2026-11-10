@@ -27,6 +27,7 @@
 
 - set up 2 gta roleplay servers from zero, writing the scripts in lua
 - built apps for mac and iphone using xcode
+- built websites for small local businesses
 - digging into emails, phone numbers and usernames to piece together real osint cases
 - building and testing small networks in packet tracer (ipv4/ipv6, routing), still leveling up
 
