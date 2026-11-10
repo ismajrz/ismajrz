@@ -1,9 +1,9 @@
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Space%20Grotesk&weight=700&size=36&duration=1800&pause=1000&repeat=false&color=E6EDF3&background=00000000&center=false&vCenter=true&width=440&height=52&lines=hey%2C%20i%27m%20isma" alt="hey, i'm isma" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space%20Grotesk&weight=700&size=36&duration=1800&pause=1000&repeat=false&color=D4874A&background=00000000&center=false&vCenter=true&width=440&height=52&lines=hey%2C%20i%27m%20isma" alt="hey, i'm isma" />
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=500&size=18&duration=2500&pause=900&color=D4874A&background=00000000&center=false&vCenter=true&width=480&height=28&lines=building%20in%20public%3Blearning%20by%20shipping%3Bsharing%20the%20process%20as%20i%20go" alt="building in public" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=500&size=18&duration=2500&pause=900&color=8B949E&background=00000000&center=false&vCenter=true&width=480&height=28&lines=building%20in%20public%3Blearning%20by%20shipping%3Bsharing%20the%20process%20as%20i%20go" alt="building in public" />
 </p>
 
 <p align="left">
@@ -56,7 +56,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/github/ffffff" height="40" width="40" alt="github" />
+  <img src="https://cdn.simpleicons.org/github/8B949E" height="40" width="40" alt="github" />
 </p>
 
 <p align="left">🌐 networking: packet tracer, ipv4/ipv6, routing</p>
