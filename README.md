@@ -67,5 +67,5 @@
 
 <p align="left">
   i'll post updates as i go.<br>
-  say hi on X: <a href="https://x.com/ismajrz">@ismajrz</a>
+  more at <a href="https://ismajrz.dev">ismajrz.dev</a>
 </p>
